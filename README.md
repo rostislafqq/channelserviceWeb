@@ -4,6 +4,7 @@ npm start
 
 feedback:
 это было круто .
+
 верстка - на общую простоту проверяется большая база стилей (в ТЧ гриды,флексы,свойства position) . чувствуется ответственный подход к работе,и, вследствие , тщательный отбор соискателей .
 
 процесс посадки на react мне тоже понравился
@@ -21,3 +22,7 @@ feedback:
 в web версии я благополучно забыл использовать styled-components . исправился в мобильном варианте
 
 использовал: redex-toolkit , axios , react-router-dom
+
+![image](https://user-images.githubusercontent.com/97777490/188552792-e8cf1f15-5259-4abd-ae1e-d9dab0b328cc.png)
+![image](https://user-images.githubusercontent.com/97777490/188552854-cbcfb44f-d956-40b2-a21e-74dc62bbe34b.png)
+
